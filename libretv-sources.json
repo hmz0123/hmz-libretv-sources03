@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.19",
-  "exportedAt": "2026-11-19",
+  "version": "2026.11.20",
+  "exportedAt": "2026-11-20",
   "sources": [
     {
       "name": "量子资源",
@@ -10,10 +10,6 @@
     {
       "name": "暴风资源",
       "url": "https://bfzyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "最大资源",
-      "url": "https://api.zuidapi.com/api.php/provide/vod"
     },
     {
       "name": "辣椒资源",
@@ -38,10 +34,6 @@
     {
       "name": "红牛资源",
       "url": "https://www.hongniuzy2.com/api.php/provide/vod"
-    },
-    {
-      "name": "极速资源",
-      "url": "https://jszyapi.com/api.php/provide/vod"
     },
     {
       "name": "豪华资源",
@@ -136,10 +128,6 @@
       "url": "https://app.bfzyapi.com/api.php/provide/vod"
     },
     {
-      "name": "zuidame",
-      "url": "http://zuidazy.me/api.php/provide/vod"
-    },
-    {
       "name": "巨量",
       "url": "https://api.juliang.live/api/provide/vod"
     },
@@ -160,6 +148,14 @@
       "url": "http://ffzy1.tv/api.php/provide/vod"
     },
     {
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json"
+    },
+    {
+      "name": "cms_jinying",
+      "url": "https://jyzyapi.com/provide/vod"
+    },
+    {
       "name": "cms_subo",
       "url": "https://subocj.com/api.php/provide/vod"
     },
@@ -178,6 +174,10 @@
     {
       "name": "feifancj2",
       "url": "https://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "jinying",
+      "url": "https://jinyingzy.com/api.php/provide/vod"
     },
     {
       "name": "hongniu3",
@@ -211,7 +211,7 @@
   "liveSources": [
     {
       "name": "聚合直播（每日自动更新）",
-      "url": "https://raw.githubusercontent.com/erxuw196/libretv-sources/main/live/merged.m3u",
+      "url": "https://raw.githubusercontent.com/hmz0123/hmz-libretv-sources03/main/live/merged.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz"
     },
     {
