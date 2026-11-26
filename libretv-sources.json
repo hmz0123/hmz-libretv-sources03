@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.25",
-  "exportedAt": "2026-11-25",
+  "version": "2026.11.26",
+  "exportedAt": "2026-11-26",
   "sources": [
     {
       "name": "量子资源",
@@ -50,6 +50,10 @@
     {
       "name": "豪华资源",
       "url": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod"
     },
     {
       "name": "金鹰",
